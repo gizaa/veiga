@@ -1,1 +1,2 @@
-header{background:transparent!important}
+header, #topbar, #menu .navbar-nav{background:transparent!important;border:none!important}
+
